@@ -1,0 +1,25 @@
+_repo: Joan-of-ArcA-Play-in-Five-Acts_35837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sargant, J. A. (Jane Alice)
+    alias: Sargant, Jane Alice
+    gutenberg_agent_id: '37929'
+    url: http://www.gutenberg.org/2009/agents/37929
+description: ''
+gutenberg_issued: '2011-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Joan, of Arc, Saint, 1412-1431 -- Drama'
+- !lcc 'PR'
+title: 'Joan of Arc: A Play in Five Acts'
+url: http://www.gutenberg.org/ebooks/35837
