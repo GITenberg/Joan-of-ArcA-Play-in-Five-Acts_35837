@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37929'
     url: http://www.gutenberg.org/2009/agents/37929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35837#Joan-of-ArcA-Play-in-Five-Acts
 gutenberg_issued: '2011-04-12'
 gutenberg_type: Text
 identifiers:
